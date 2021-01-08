@@ -1,0 +1,6 @@
+## Interface: 11306
+## Title: WoW-Addon
+## Notes: Ein WoW-Addon
+## Version: "0.01"
+
+WoW-Addon.lua
